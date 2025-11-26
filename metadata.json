@@ -1,0 +1,5 @@
+{
+  "name": "T20-MAS Mission Control",
+  "description": "A multi-agent system dashboard featuring an Orchestrator, CLI simulator, Virtual File System, and agent collaboration visualizer designed with a clean, minimally natural aesthetic.",
+  "requestFramePermissions": []
+}
